@@ -9,6 +9,7 @@
 ## Javascript
 
 ## jQuery
+[Hop](https://ahmad-moussawi.github.io/hop) - Highlight important features on your webpage
 
 ## UI
 
