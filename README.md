@@ -35,6 +35,7 @@
 * [Free themes and CSS for Bootstrap](https://bootswatch.com/)
 * [Free themes and CSS for Bootstrap ver. 3.x](https://bootswatch.com/3/)
 * [Themeforest](https://themeforest.net/)
+* [BootstrapMade](https://bootstrapmade.com/) - Free Bootstrap Templates
 
 ## Images
 * [Pixabay](https://pixabay.com) - Stunning free images & royalty free stock
