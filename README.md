@@ -40,6 +40,11 @@
 ## Images
 * [Pixabay](https://pixabay.com) - Stunning free images & royalty free stock
 
+## Fonts
+* [DaFont](https://www.dafont.com/) - Download fonts
+* [Google Fonts](https://fonts.google.com/)
+* [Font Identifier](https://www.fontsquirrel.com/matcherator) - Fontspring Matcherator
+
 ## JSON and XML
 * [Json.NET](https://www.newtonsoft.com) - JSON framework for .NET
 * [JSON Formatter](https://jsonformatter.org) - JSON Formatter and Converter
