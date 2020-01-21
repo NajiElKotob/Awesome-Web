@@ -1,7 +1,5 @@
 # Awesome Web
 
-<> BETA <>
-
 ## HTML5
 * [Semantic HTML5 for Document Structure](https://www.semrush.com/blog/semantic-html5-guide)
 * [HTML Tutorial](https://websitesetup.org/html-tutorial-beginners/) - Learn HTML, step-by-step
@@ -39,6 +37,8 @@
 
 ## Images
 * [Pixabay](https://pixabay.com) - Stunning free images & royalty free stock
+* [Freepik](https://www.freepik.com/) - Graphic resources for everyone
+* [Unsplash](https://unsplash.com/) - The internet’s source of freely usable images.
 
 ## Fonts
 * [DaFont](https://www.dafont.com/) - Download fonts
