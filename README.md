@@ -42,6 +42,10 @@
 
 ## GIF
 * [GIPHY](https://giphy.com/)
+* [Video to GIF converter](https://ezgif.com/video-to-gif) - ezgif.com
+
+## Media
+[YouTube to MP4 & MP3 Converter](https://www.clipconverter.cc/) - ClipConverter
 
 ## Fonts
 * [DaFont](https://www.dafont.com/) - Download fonts
