@@ -40,6 +40,9 @@
 * [Freepik](https://www.freepik.com/) - Graphic resources for everyone
 * [Unsplash](https://unsplash.com/) - The internet’s source of freely usable images.
 
+## GIF
+* [GIPHY](https://giphy.com/)
+
 ## Fonts
 * [DaFont](https://www.dafont.com/) - Download fonts
 * [Google Fonts](https://fonts.google.com/)
