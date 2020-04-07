@@ -56,6 +56,9 @@
 * [Json.NET](https://www.newtonsoft.com) - JSON framework for .NET
 * [JSON Formatter](https://jsonformatter.org) - JSON Formatter and Converter
 
+## HttpClient
+* [ReqBin](https://reqbin.com/) - Post Requests Online
+
 ## Colors
 * [Color Palettes](https://www.astellescolors.com/)
 * [Adobe Color](https://color.adobe.com/)
