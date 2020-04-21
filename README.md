@@ -21,7 +21,7 @@
 * [Bootstrap Resources](https://startbootstrap.com/bootstrap-resources) - A curated list of quality Bootstrap resources and Bootstrap plugins maintained by Start Bootstrap.
 * [Chosen - jQuery plugin](https://harvesthq.github.io/chosen)
 * [35 Best Toast Notification jQuery Plugins Of 2017](https://www.jqueryscript.net/blog/Best-Toast-Notification-jQuery-Plugins.html)
-
+* [Alignment Principle in Design](https://bestdesigntrend.com/alignment-principle-design/) - bestdesigntrend.com
 
 ## UX
 * [Good UI](http://www.goodui.org)
