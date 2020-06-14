@@ -4,6 +4,7 @@
 * [Semantic HTML5 for Document Structure](https://www.semrush.com/blog/semantic-html5-guide)
 * [HTML Tutorial](https://websitesetup.org/html-tutorial-beginners/) - Learn HTML, step-by-step
 * [HTML Cheat Sheet](https://websitesetup.org/html5-cheat-sheet/)
+* [HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a) - MDN Web Docs developer.mozilla.org
 
 ## CSS
 * [Animate.css](https://daneden.github.io/animate.css/)
