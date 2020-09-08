@@ -69,11 +69,13 @@
 * [Can I Use](https://caniuse.com) - Browser support tables for modern web technologies
 * [Website Speed Test](https://tools.pingdom.com)
 * [Screen Sizes](http://screensiz.es/phone) - Phone, Tables and Monitors
-* [DNS](https://securitytrails.com/dns-trails) - The World's Largest Repository of historical DNS data
 * Identify technology on websites 
     * [BuiltWith](https://builtwith.com/)
     * [Wappalyzer](https://www.wappalyzer.com/)
-    
+### DNS
+* [DNS](https://securitytrails.com/dns-trails) - The World's Largest Repository of historical DNS data
+* [Complete DNS](https://completedns.com/dns-history/) - Largest DNS record history database, with more than 2.2 billion nameserver changes detected, daily updated. 
+
 ## HTML Editors
 * [Notepad++](https://notepad-plus-plus.org/)
 * [Sublime](https://www.sublimetext.com/)
