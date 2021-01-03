@@ -29,12 +29,16 @@
 * [UX Design vs UI Design](https://www.youtube.com/watch?v=RtPnVtXw6HU) - What's the Difference? Which one is right for me?
 * [Printable Grids for Design Wireframing](https://sneakpeekit.com/) - Planning apps or websites is not always completely digital: sometimes you may need pencil, paper and some good sketch sheet templates to speed up your creative process.
 
+## Bootstrap
 ### Templates and Theme
 * [Free Bootstrap Themes & Templates](https://startbootstrap.com/)
 * [Free themes and CSS for Bootstrap](https://bootswatch.com/)
 * [Free themes and CSS for Bootstrap ver. 3.x](https://bootswatch.com/3/)
 * [Themeforest](https://themeforest.net/)
 * [BootstrapMade](https://bootstrapmade.com/) - Free Bootstrap Templates
+
+### Plugins
+* [bootstrap-select](https://developer.snapappointments.com/bootstrap-select/)
 
 ## Images
 * [Pixabay](https://pixabay.com) - Stunning free images & royalty free stock
