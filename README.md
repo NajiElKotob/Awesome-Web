@@ -96,3 +96,4 @@
 ## Technologies
 ### Scrollytelling
 * [scrollama.js](https://russellgoldenberg.github.io/scrollama/basic/) - Scrollama is a modern & lightweight JavaScript library for scrollytelling using IntersectionObserver in favor of scroll events.
+* [Time in Perspective (Sample)](https://wfs2.webflow.io/time-in-perspective)
