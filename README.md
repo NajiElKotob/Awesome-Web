@@ -84,7 +84,7 @@
 ## HTML Editors
 * [Notepad++](https://notepad-plus-plus.org/)
 * [Sublime](https://www.sublimetext.com/)
-* [Visual Studio Code](https://code.visualstudio.com/)
+* [Visual Studio Code](https://code.visualstudio.com/) 🌟
     * [HTML in Visual Studio Code](https://code.visualstudio.com/docs/languages/html)
 * [Brackets](http://brackets.io/) - A modern, open source text editor that understands web design.
    
