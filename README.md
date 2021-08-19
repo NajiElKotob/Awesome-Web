@@ -76,6 +76,11 @@
 * [Complete DNS](https://completedns.com/dns-history/) - Largest DNS record history database, with more than 2.2 billion nameserver changes detected, daily updated. 
 
 -----
+## DevTools
+* [Open Chrome DevTools](https://developer.chrome.com/docs/devtools/open/) - chrome.com
+* [Open Microsoft Edge DevTools](https://docs.microsoft.com/en-us/microsoft-edge/devtools-guide-chromium/open/?tabs=cmd-Windows) - microsoft.com
+
+-----
 
 ## HTML Editors
 * [Notepad++](https://notepad-plus-plus.org/)
