@@ -17,7 +17,7 @@
 * [Learn jQuery](https://learn.jquery.com/) - jquery.com
 * [Making webpages interactive with jQuery](https://www.khanacademy.org/computing/computer-programming/html-js-jquery) - khanacademy.org
 * [jQuery Basics](http://web.simmons.edu/~grovesd/comm328/modules/javascript/basics) - simmons.edu
-* [jQuery AJAX](http://api.jquery.com/jquery.ajax)
+* [jQuery Tutorials and Courses (References)](https://hackr.io/tutorials/learn-jquery) - hackr.io
 
 ## UI
 * [Datepicker | bootstrap-datepicker](https://bootstrap-datepicker.readthedocs.io/)
