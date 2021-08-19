@@ -46,22 +46,8 @@
 ### Plugins
 * [bootstrap-select](https://developer.snapappointments.com/bootstrap-select/)
 
-## Images
-* [Pixabay](https://pixabay.com) - Stunning free images & royalty free stock
-* [Freepik](https://www.freepik.com/) - Graphic resources for everyone
-* [Unsplash](https://unsplash.com/) - The internet’s source of freely usable images.
 
-## GIF
-* [GIPHY](https://giphy.com/)
-* [Video to GIF converter](https://ezgif.com/video-to-gif) - ezgif.com
 
-## Media
-[YouTube to MP4 & MP3 Converter](https://www.clipconverter.cc/) - ClipConverter
-
-## Fonts
-* [DaFont](https://www.dafont.com/) - Download fonts
-* [Google Fonts](https://fonts.google.com/)
-* [Font Identifier](https://www.fontsquirrel.com/matcherator) - Fontspring Matcherator
 
 ## JSON and XML
 * [Json.NET](https://www.newtonsoft.com) - JSON framework for .NET
@@ -87,6 +73,8 @@
 * [DNS](https://securitytrails.com/dns-trails) - The World's Largest Repository of historical DNS data
 * [Complete DNS](https://completedns.com/dns-history/) - Largest DNS record history database, with more than 2.2 billion nameserver changes detected, daily updated. 
 
+-----
+
 ## HTML Editors
 * [Notepad++](https://notepad-plus-plus.org/)
 * [Sublime](https://www.sublimetext.com/)
@@ -97,7 +85,27 @@
     * [Live Server (Extension)](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - Launch a development local Server with live reload feature for static and dynamic pages
          * [Automatically Reload Your Site on Save](https://www.youtube.com/watch?v=WzE0yqwbdgU) 
 * [Brackets](http://brackets.io/) - A modern, open source text editor that understands web design.
-   
+
+
+-----
+## Media
+### Images
+* [Pixabay](https://pixabay.com) - Stunning free images & royalty free stock
+* [Freepik](https://www.freepik.com/) - Graphic resources for everyone
+* [Unsplash](https://unsplash.com/) - The internet’s source of freely usable images.
+
+## Fonts
+* [DaFont](https://www.dafont.com/) - Download fonts
+* [Google Fonts](https://fonts.google.com/)
+* [Font Identifier](https://www.fontsquirrel.com/matcherator) - Fontspring Matcherator
+
+
+### GIF
+* [GIPHY](https://giphy.com/)
+* [Video to GIF converter](https://ezgif.com/video-to-gif) - ezgif.com
+
+### Converters
+[YouTube to MP4 & MP3 Converter](https://www.clipconverter.cc/) - ClipConverter
 
 ----
 
