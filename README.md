@@ -14,6 +14,7 @@
 ## jQuery
 * [jQuery Tutorial (SoloLearn)](https://www.sololearn.com/Course/jQuery/) - Learn jQuery in the most social and fun way!
 * [Learn jQuery](https://learn.jquery.com/) - jquery.com
+* [Making webpages interactive with jQuery](https://www.khanacademy.org/computing/computer-programming/html-js-jquery) - khanacademy.org
 * [jQuery AJAX](http://api.jquery.com/jquery.ajax)
 
 ## UI
