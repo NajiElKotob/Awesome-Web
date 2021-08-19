@@ -63,6 +63,7 @@
 
 ## Tools
 * [Can I Use](https://caniuse.com) - Browser support tables for modern web technologies
+   * [Test your browser](https://tests.caniuse.com/) 
 * [Website Speed Test](https://tools.pingdom.com)
 * [UptimeRobot](https://uptimerobot.com/pricing/) - Downtime happens. Get notified!
 * [Screen Sizes](http://screensiz.es/phone) - Phone, Tables and Monitors
