@@ -19,6 +19,7 @@
 * [jQuery Basics](http://web.simmons.edu/~grovesd/comm328/modules/javascript/basics) - simmons.edu
 * [jQuery Tutorial](https://www.w3schools.com/jquery/) - w3schools.com
 * [jQuery Tutorials Playlist :tv:](https://www.youtube.com/watch?v=GNb8T5NBdQg&list=PL6B08BAA57B5C7810) 
+* [jQuery Basics](https://www.coursera.org/lecture/javascript-jquery-json/jquery-basics-VkM0I) - coursera.org
 * [jQuery Essentials](https://www.slideshare.net/1Marc/jquery-essentials/16-Give_a_selectormyId_myClass_table) - slideshare.net
 * [jQuery Tutorials and Courses (References)](https://hackr.io/tutorials/learn-jquery) - hackr.io
 
