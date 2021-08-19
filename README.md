@@ -17,6 +17,7 @@
 * [Learn jQuery](https://learn.jquery.com/) - jquery.com
 * [Making webpages interactive with jQuery](https://www.khanacademy.org/computing/computer-programming/html-js-jquery) - khanacademy.org
 * [jQuery Basics](http://web.simmons.edu/~grovesd/comm328/modules/javascript/basics) - simmons.edu
+* [jQuery Tutorials Playlist :tv:](https://www.youtube.com/watch?v=GNb8T5NBdQg&list=PL6B08BAA57B5C7810) 
 * [jQuery Tutorials and Courses (References)](https://hackr.io/tutorials/learn-jquery) - hackr.io
 
 ## UI
