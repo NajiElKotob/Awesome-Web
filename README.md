@@ -91,6 +91,7 @@
 * [Sublime](https://www.sublimetext.com/)
 * [Visual Studio Code](https://code.visualstudio.com/) 🌟
     * [HTML in Visual Studio Code](https://code.visualstudio.com/docs/languages/html)
+    * [Live Server (Extension)](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - Launch a development local Server with live reload feature for static and dynamic pages
 * [Brackets](http://brackets.io/) - A modern, open source text editor that understands web design.
    
 
