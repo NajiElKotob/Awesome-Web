@@ -93,9 +93,6 @@
     * [HTML in Visual Studio Code](https://code.visualstudio.com/docs/languages/html)
 * [Brackets](http://brackets.io/) - A modern, open source text editor that understands web design.
    
-## YouTube
-
-## Articles
 
 ----
 
