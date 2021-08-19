@@ -10,6 +10,7 @@
 * [Animate.css](https://daneden.github.io/animate.css/)
 
 ## Javascript
+* [JavaScript Intro](http://web.simmons.edu/~grovesd/comm328/modules/javascript/intro) - simmons.edu
 
 ## jQuery
 * [jQuery Tutorial (SoloLearn)](https://www.sololearn.com/Course/jQuery/) - Learn jQuery in the most social and fun way!
