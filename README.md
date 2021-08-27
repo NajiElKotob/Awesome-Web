@@ -8,13 +8,19 @@
 ### Quiz
 * [HTML Quiz](https://www.w3schools.com/html/html_quiz.asp) - w3schools.com
 
+-----
+
 ## CSS
 * [CSS Tutorial](https://www.w3schools.com/css/) - w3schools.com
 ### CSS Libraries
 * [Animate.css](https://daneden.github.io/animate.css/)
 
+-----
+
 ## Javascript
 * [JavaScript Intro](http://web.simmons.edu/~grovesd/comm328/modules/javascript/intro) - simmons.edu
+
+------
 
 ## jQuery
 * [jQuery Tutorial (SoloLearn)](https://www.sololearn.com/Course/jQuery/) - Learn jQuery in the most social and fun way!
@@ -28,6 +34,22 @@
 * [jQuery Tutorials and Courses (References)](https://hackr.io/tutorials/learn-jquery) - hackr.io
 ### jQuery Quiz
 * [jQuery Quiz Test](https://www.w3schools.com/jquery/jquery_quiz.asp) - w3schools.com
+
+------
+
+## Bootstrap
+### Templates and Theme
+* [Free Bootstrap Themes & Templates](https://startbootstrap.com/)
+* [Free themes and CSS for Bootstrap](https://bootswatch.com/)
+* [Free themes and CSS for Bootstrap ver. 3.x](https://bootswatch.com/3/)
+* [Themeforest](https://themeforest.net/)
+* [BootstrapMade](https://bootstrapmade.com/) - Free Bootstrap Templates
+
+### Plugins
+* [bootstrap-select](https://developer.snapappointments.com/bootstrap-select/)
+
+
+-----
 
 ## UI
 * [Datepicker | bootstrap-datepicker](https://bootstrap-datepicker.readthedocs.io/)
@@ -43,18 +65,8 @@
 * [UX Design vs UI Design](https://www.youtube.com/watch?v=RtPnVtXw6HU) - What's the Difference? Which one is right for me?
 * [Printable Grids for Design Wireframing](https://sneakpeekit.com/) - Planning apps or websites is not always completely digital: sometimes you may need pencil, paper and some good sketch sheet templates to speed up your creative process.
 
-## Bootstrap
-### Templates and Theme
-* [Free Bootstrap Themes & Templates](https://startbootstrap.com/)
-* [Free themes and CSS for Bootstrap](https://bootswatch.com/)
-* [Free themes and CSS for Bootstrap ver. 3.x](https://bootswatch.com/3/)
-* [Themeforest](https://themeforest.net/)
-* [BootstrapMade](https://bootstrapmade.com/) - Free Bootstrap Templates
 
-### Plugins
-* [bootstrap-select](https://developer.snapappointments.com/bootstrap-select/)
-
-
+-----
 
 
 ## JSON and XML
