@@ -77,8 +77,6 @@
 
 -----
 
-
-
 ## Tools
 * [Can I Use](https://caniuse.com) - Browser support tables for modern web technologies
    * [Test your browser](https://tests.caniuse.com/) 
@@ -95,10 +93,10 @@
 * [DNS](https://securitytrails.com/dns-trails) - The World's Largest Repository of historical DNS data
 * [Complete DNS](https://completedns.com/dns-history/) - Largest DNS record history database, with more than 2.2 billion nameserver changes detected, daily updated. 
 
-
 -----
 
 ## HTML Editors
+### Applications
 * [Notepad++](https://notepad-plus-plus.org/)
 * [Sublime](https://www.sublimetext.com/)
 * [Visual Studio Code](https://code.visualstudio.com/) 🌟
@@ -108,6 +106,9 @@
     * [Live Server (Extension)](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - Launch a development local Server with live reload feature for static and dynamic pages
          * [Automatically Reload Your Site on Save](https://www.youtube.com/watch?v=WzE0yqwbdgU) 
 * [Brackets](http://brackets.io/) - A modern, open source text editor that understands web design.
+
+### Online Editors
+* [CodePen](https://codepen.io/trending) - CodePen 'codepen.io' is an online community for testing and showcasing user-created HTML, CSS and JavaScript code snippets.
 
 -----
 ## DevTools
