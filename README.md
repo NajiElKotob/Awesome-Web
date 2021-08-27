@@ -53,6 +53,11 @@
 ### Plugins
 * [bootstrap-select](https://developer.snapappointments.com/bootstrap-select/)
 
+-----
+
+## JSON and XML
+* [Json.NET](https://www.newtonsoft.com) - JSON framework for .NET
+* [JSON Formatter](https://jsonformatter.org) - JSON Formatter and Converter
 
 -----
 
@@ -70,21 +75,9 @@
 * [UX Design vs UI Design](https://www.youtube.com/watch?v=RtPnVtXw6HU) - What's the Difference? Which one is right for me?
 * [Printable Grids for Design Wireframing](https://sneakpeekit.com/) - Planning apps or websites is not always completely digital: sometimes you may need pencil, paper and some good sketch sheet templates to speed up your creative process.
 
-
 -----
 
 
-## JSON and XML
-* [Json.NET](https://www.newtonsoft.com) - JSON framework for .NET
-* [JSON Formatter](https://jsonformatter.org) - JSON Formatter and Converter
-
-## HttpClient
-* [ReqBin](https://reqbin.com/) - Post Requests Online
-
-## Colors
-* [Color Palettes](https://www.astellescolors.com/)
-* [Adobe Color](https://color.adobe.com/)
-* [HTML Color Codes](https://htmlcolorcodes.com/color-names/) - Modern browsers support 140 named colors, which are listed below. Use them in your HTML and CSS by name, Hex color code or RGB value.
 
 ## Tools
 * [Can I Use](https://caniuse.com) - Browser support tables for modern web technologies
@@ -95,14 +88,13 @@
 * Identify technology on websites 
     * [BuiltWith](https://builtwith.com/)
     * [Wappalyzer](https://www.wappalyzer.com/)
+### HttpClient
+* [ReqBin](https://reqbin.com/) - Post Requests Online
+
 ### DNS
 * [DNS](https://securitytrails.com/dns-trails) - The World's Largest Repository of historical DNS data
 * [Complete DNS](https://completedns.com/dns-history/) - Largest DNS record history database, with more than 2.2 billion nameserver changes detected, daily updated. 
 
------
-## DevTools
-* [Open Chrome DevTools](https://developer.chrome.com/docs/devtools/open/) - chrome.com
-* [Open Microsoft Edge DevTools](https://docs.microsoft.com/en-us/microsoft-edge/devtools-guide-chromium/open/?tabs=cmd-Windows) - microsoft.com
 
 -----
 
@@ -117,6 +109,10 @@
          * [Automatically Reload Your Site on Save](https://www.youtube.com/watch?v=WzE0yqwbdgU) 
 * [Brackets](http://brackets.io/) - A modern, open source text editor that understands web design.
 
+-----
+## DevTools
+* [Open Chrome DevTools](https://developer.chrome.com/docs/devtools/open/) - chrome.com
+* [Open Microsoft Edge DevTools](https://docs.microsoft.com/en-us/microsoft-edge/devtools-guide-chromium/open/?tabs=cmd-Windows) - microsoft.com
 
 -----
 ## Media
@@ -125,11 +121,15 @@
 * [Freepik](https://www.freepik.com/) - Graphic resources for everyone
 * [Unsplash](https://unsplash.com/) - The internet’s source of freely usable images.
 
-## Fonts
+### Colors
+* [Color Palettes](https://www.astellescolors.com/)
+* [Adobe Color](https://color.adobe.com/)
+* [HTML Color Codes](https://htmlcolorcodes.com/color-names/) - Modern browsers support 140 named colors, which are listed below. Use them in your HTML and CSS by name, Hex color code or RGB value.
+
+### Fonts
 * [DaFont](https://www.dafont.com/) - Download fonts
 * [Google Fonts](https://fonts.google.com/)
 * [Font Identifier](https://www.fontsquirrel.com/matcherator) - Fontspring Matcherator
-
 
 ### GIF
 * [GIPHY](https://giphy.com/)
