@@ -14,6 +14,9 @@
 * [CSS Tutorial](https://www.w3schools.com/css/) - w3schools.com
 ### CSS Libraries
 * [Animate.css](https://daneden.github.io/animate.css/)
+* [Scroll animations](https://cssanimation.rocks/scroll-animations/) - cssanimation.rocks
+
+
 ### Quiz
 * [CSS Quiz](https://www.w3schools.com/css/css_quiz.asp) - w3schools.com
 -----
