@@ -90,6 +90,7 @@
 * [Can I Use](https://caniuse.com) - Browser support tables for modern web technologies
    * [Test your browser](https://tests.caniuse.com/) 
 * [Website Speed Test](https://tools.pingdom.com)
+* [W3C Validation and Checking tools](https://www.w3.org/developers/tools/) - w3.org
 * [UptimeRobot](https://uptimerobot.com/pricing/) - Downtime happens. Get notified!
 * [Screen Sizes](http://screensiz.es/phone) - Phone, Tables and Monitors
 * Identify technology on websites 
