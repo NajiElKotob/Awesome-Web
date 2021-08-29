@@ -95,6 +95,7 @@
 * Identify technology on websites 
     * [BuiltWith](https://builtwith.com/)
     * [Wappalyzer](https://www.wappalyzer.com/)
+* [Lorem Ipsum](https://www.lipsum.com/) - In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content.
 ### HttpClient
 * [ReqBin](https://reqbin.com/) - Post Requests Online
 
