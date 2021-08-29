@@ -93,9 +93,12 @@
 ### HttpClient
 * [ReqBin](https://reqbin.com/) - Post Requests Online
 
+
+
 ### DNS
+* [MXToolbox](https://mxtoolbox.com/) - This test will list MX records for a domain in priority order.
 * [DNS](https://securitytrails.com/dns-trails) - The World's Largest Repository of historical DNS data
-* [Complete DNS](https://completedns.com/dns-history/) - Largest DNS record history database, with more than 2.2 billion nameserver changes detected, daily updated. 
+* [Complete DNS](https://comhttps://mxtoolbox.com/tedns.com/dns-history/) - Largest DNS record history database, with more than 2.2 billion nameserver changes detected, daily updated. 
 
 -----
 
