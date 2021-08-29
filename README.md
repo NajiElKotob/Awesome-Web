@@ -103,7 +103,7 @@
 
 ### Statistics
 * [W3Techs](https://w3techs.com/technologies/overview/top_level_domain) - Usage statistics of top level domains for websites
-
+* [Browser Statistics](https://www.w3schools.com/browsers/) - w3schools.com
 -----
 
 ## HTML Editors
