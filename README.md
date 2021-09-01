@@ -9,6 +9,8 @@
 ### Learning
 * [W3Cx](https://w3cx.org/) - w3cx.org
 
+### Refernces
+* [HTML Reference](https://htmlreference.io/) - htmlreference.io
 
 ### Quiz
 * [HTML Quiz](https://www.w3schools.com/html/html_quiz.asp) - w3schools.com
