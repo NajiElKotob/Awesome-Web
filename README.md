@@ -11,6 +11,7 @@
 
 ### Refernces
 * [HTML Reference](https://htmlreference.io/) - htmlreference.io
+* [HTML Element Reference](https://www.w3schools.com/TAGS/default.ASP) - w3schools.com
 
 ### Quiz
 * [HTML Quiz](https://www.w3schools.com/html/html_quiz.asp) - w3schools.com
