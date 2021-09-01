@@ -62,6 +62,8 @@
 ### Plugins
 * [bootstrap-select](https://developer.snapappointments.com/bootstrap-select/)
 
+### Statistics
+* [Usage statistics of JavaScript libraries for websites](https://w3techs.com/technologies/overview/javascript_library) - w3Techs
 -----
 
 ## JSON and XML
