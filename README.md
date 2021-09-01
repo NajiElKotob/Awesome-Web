@@ -24,9 +24,13 @@
 * [Animate On Scroll (AOS) Library](https://michalsnik.github.io/aos/)
 * [Scroll animations](https://cssanimation.rocks/scroll-animations/) - cssanimation.rocks
 
+### Refernces
+* [CSS Reference](https://cssreference.io/) - cssreference.io
 
 ### Quiz
 * [CSS Quiz](https://www.w3schools.com/css/css_quiz.asp) - w3schools.com
+
+
 -----
 
 ## Javascript
