@@ -22,6 +22,9 @@
 
 ## CSS
 * [CSS Tutorial](https://www.w3schools.com/css/) - w3schools.com
+* [CSS Guides](https://css-tricks.com/guides/) - css-tricks.com
+
+
 ### CSS Libraries
 * [Animate.css](https://daneden.github.io/animate.css/)
 * [Animate On Scroll (AOS) Library](https://michalsnik.github.io/aos/)
