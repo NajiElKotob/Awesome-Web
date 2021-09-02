@@ -8,6 +8,7 @@
 
 ### Learning
 * [W3Cx](https://w3cx.org/) - w3cx.org
+* [Semantics and structure with HTML](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer#semantics_and_structure_with_html) - mozilla.org
 
 ### Refernces
 * [HTML Reference](https://htmlreference.io/) - htmlreference.io
