@@ -18,6 +18,9 @@
 
 ### Quiz
 * [HTML Quiz](https://www.w3schools.com/html/html_quiz.asp) - w3schools.com
+* GeeksforGeeks
+    * [Practice Quiz 1](https://www.geeksforgeeks.org/html-course-practice-quiz-1/) - geeksforgeeks.org
+    * [Practice Quiz 2](https://www.geeksforgeeks.org/html-course-practice-quiz-2/) - geeksforgeeks.org
 
 -----
 
