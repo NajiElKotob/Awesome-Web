@@ -90,6 +90,7 @@
 
 ### Statistics
 * [Usage statistics of JavaScript libraries for websites](https://w3techs.com/technologies/overview/javascript_library) - w3Techs
+* [Browser & Platform Market Share](https://www.w3counter.com/globalstats.php) - w3counter.com
 -----
 
 ## JSON and XML
