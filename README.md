@@ -15,6 +15,8 @@
 * [HTML Element Reference (w3schools)](https://www.w3schools.com/TAGS/default.ASP) - w3schools.com
 * [HTML elements reference (MDN)](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) - mozilla.org
 * [DevDocs](https://devdocs.io/html/) - devdocs.io
+* [W3C cheatsheet](https://www.w3.org/2009/cheatsheet/) - w3.org
+
 
 ### Quiz
 * [HTML Quiz](https://www.w3schools.com/html/html_quiz.asp) - w3schools.com :star:
