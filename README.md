@@ -52,6 +52,10 @@
 ### References
 * [Comparison of JavaScript-based web frameworks](https://en.wikipedia.org/wiki/Comparison_of_JavaScript-based_web_frameworks) - wikipedia.org
 
+### Articles
+* [4 ways to call a function in JavaScript](https://itnext.io/4-ways-to-call-a-function-in-javascript-19b174678f5a) - itnext.io
+
+
 ### Quiz
 * [JavaScript Quiz](https://www.w3schools.com/js/js_quiz.asp) - w3schools.com
 
