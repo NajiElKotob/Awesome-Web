@@ -47,6 +47,9 @@
 ## Javascript
 * [JavaScript Intro](http://web.simmons.edu/~grovesd/comm328/modules/javascript/intro) - simmons.edu
 
+### References
+* [Comparison of JavaScript-based web frameworks](https://en.wikipedia.org/wiki/Comparison_of_JavaScript-based_web_frameworks) - wikipedia.org
+
 ### Quiz
 * [JavaScript Quiz](https://www.w3schools.com/js/js_quiz.asp) - w3schools.com
 
