@@ -79,6 +79,10 @@
 * [Themeforest](https://themeforest.net/)
 * [BootstrapMade](https://bootstrapmade.com/) - Free Bootstrap Templates
 
+### Learning
+* [Bootstrap 5 tutorial](https://mdbootstrap.com/docs/standard/bootstrap-5-tutorial/) - mdbootstrap.com
+
+
 ### Plugins
 * [bootstrap-select](https://developer.snapappointments.com/bootstrap-select/)
 
