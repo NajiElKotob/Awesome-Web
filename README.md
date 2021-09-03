@@ -36,7 +36,7 @@
 ### Refernces
 * [CSS Reference](https://cssreference.io/) - cssreference.io
 * [CSS Properties](https://css-tricks.com/almanac/properties/) - css-tricks.com
-
+* [CSS Guidelines](https://cssguidelin.es/) - cssguidelin.es
 ### Tools
 * [Web Code Tools](https://webcode.tools/generators/css) - webcode.tools
 
