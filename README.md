@@ -155,7 +155,7 @@
 
 ### Online Editors
 * [CodePen](https://codepen.io/trending) - CodePen 'codepen.io' is an online community for testing and showcasing user-created HTML, CSS and JavaScript code snippets.
-   * [Using CodePen :tv:](https://www.youtube.com/watch?v=Bs4HVBLi6jQ) - Chris Coyier
+   * [Learn to use CodePen from a co-founder of CodePen :tv:](https://www.youtube.com/watch?v=vb9uYBtqmeM) - Chris Coyier
 * [Glitch](https://glitch.com/) 
 
 -----
