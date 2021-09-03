@@ -25,7 +25,6 @@
 * [CSS Tutorial](https://www.w3schools.com/css/) - w3schools.com
 * [CSS Guides](https://css-tricks.com/guides/) - css-tricks.com
 
-
 ### CSS Libraries
 * [Animate.css](https://daneden.github.io/animate.css/)
 * [Animate On Scroll (AOS) Library](https://michalsnik.github.io/aos/)
@@ -33,6 +32,8 @@
 
 ### Refernces
 * [CSS Reference](https://cssreference.io/) - cssreference.io
+* [CSS Properties](https://css-tricks.com/almanac/properties/) - css-tricks.com
+
 
 ### Quiz
 * [CSS Quiz](https://www.w3schools.com/css/css_quiz.asp) - w3schools.com
