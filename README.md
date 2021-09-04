@@ -108,6 +108,7 @@
 ## JSON and XML
 ### Learning
 * [Learn JSON](https://www.w3schools.com/js/js_json_intro.asp) - w3schools.com
+* [Learn XML](https://www.w3schools.com/xml/default.asp) - w3schools.com
 
 ### Tools
 * [JSON Formatter](https://jsonformatter.org) - JSON Formatter and Converter
