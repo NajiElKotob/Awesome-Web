@@ -88,7 +88,7 @@
 * [Free themes and CSS for Bootstrap](https://bootswatch.com/)
 * [Free themes and CSS for Bootstrap ver. 3.x](https://bootswatch.com/3/)
 * [Themeforest](https://themeforest.net/)
-* [BootstrapMade](https://bootstrapmade.com/) - Free Bootstrap Templates
+* [BootstrapMade](https://bootstrapmade.com/bootstrap-5-templates/) - Free Bootstrap Templates
 
 ### Learning
 * [Bootstrap 5 tutorial](https://mdbootstrap.com/docs/standard/bootstrap-5-tutorial/) - mdbootstrap.com
