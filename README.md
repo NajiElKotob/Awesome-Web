@@ -106,7 +106,10 @@
 -----
 
 ## JSON and XML
-* [Json.NET](https://www.newtonsoft.com) - JSON framework for .NET
+### Learning
+* [Learn JSON](https://www.w3schools.com/js/js_json_intro.asp) - w3schools.com
+
+### Tools
 * [JSON Formatter](https://jsonformatter.org) - JSON Formatter and Converter
 
 -----
