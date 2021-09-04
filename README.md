@@ -9,6 +9,8 @@
 ### Learning
 * [W3Cx](https://w3cx.org/) - w3cx.org
 * [Semantics and structure with HTML](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer#semantics_and_structure_with_html) - mozilla.org
+* [Front-end Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/) - frontendmasters.com
+
 
 ### Refernces
 * [HTML Reference](https://htmlreference.io/) - htmlreference.io
@@ -16,6 +18,7 @@
 * [HTML elements reference (MDN)](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) - mozilla.org
 * [DevDocs](https://devdocs.io/html/) - devdocs.io
 * [W3C cheatsheet](https://www.w3.org/2009/cheatsheet/) - w3.org
+
 
 
 ### Quiz
