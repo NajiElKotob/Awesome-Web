@@ -84,7 +84,7 @@
 
 ## Bootstrap
 ### Templates and Theme
-* [Free Bootstrap Themes & Templates](https://startbootstrap.com/)
+* [Free Bootstrap Themes & Templates](https://startbootstrap.com/?showPro=false&showVue=false&showAngular=false)
 * [Free themes and CSS for Bootstrap](https://bootswatch.com/)
 * [Free themes and CSS for Bootstrap ver. 3.x](https://bootswatch.com/3/)
 * [Themeforest](https://themeforest.net/)
