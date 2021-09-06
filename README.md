@@ -43,8 +43,12 @@
 * [CSS Properties](https://css-tricks.com/almanac/properties/) - css-tricks.com
 * [CSS Guidelines](https://cssguidelin.es/) - cssguidelin.es
 
+### Gamification
+* [CSS Dinner](https://flukeout.github.io) - flukeout
 ### Videos
 * [STOP The CSS Grid Confusion - 2 Ways to GRID!](https://www.youtube.com/watch?v=YNB-JD7iPoQ)
+
+
 ### Tools
 * [Web Code Tools](https://webcode.tools/generators/css) - webcode.tools
 
