@@ -135,7 +135,6 @@
 ## Tools
 * [Can I Use](https://caniuse.com) - Browser support tables for modern web technologies
    * [Test your browser](https://tests.caniuse.com/) 
-* [Website Speed Test](https://tools.pingdom.com)
 * [W3C Validation and Checking tools](https://www.w3.org/developers/tools/) - w3.org
 * [UptimeRobot](https://uptimerobot.com/pricing/) - Downtime happens. Get notified!
 * [Screen Sizes](http://screensiz.es/phone) - Phone, Tables and Monitors
@@ -143,6 +142,11 @@
     * [BuiltWith](https://builtwith.com/)
     * [Wappalyzer](https://www.wappalyzer.com/)
 * [Lorem Ipsum](https://www.lipsum.com/) - In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content.
+
+### Performance
+* [Fast](https://fast.com) - fast.com
+* [Website Speed Test](https://tools.pingdom.com)
+
 ### HttpClient
 * [ReqBin](https://reqbin.com/) - Post Requests Online
 
