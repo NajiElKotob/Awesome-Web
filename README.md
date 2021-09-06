@@ -125,6 +125,7 @@
 * [Alignment Principle in Design](https://bestdesigntrend.com/alignment-principle-design/) - bestdesigntrend.com
 
 ## UX
+* [User Experience Basics](https://www.usability.gov/what-and-why/user-experience.html) - usability.gov
 * [Good UI](http://www.goodui.org)
 * [UX Design vs UI Design](https://www.youtube.com/watch?v=RtPnVtXw6HU) - What's the Difference? Which one is right for me?
 * [Printable Grids for Design Wireframing](https://sneakpeekit.com/) - Planning apps or websites is not always completely digital: sometimes you may need pencil, paper and some good sketch sheet templates to speed up your creative process.
