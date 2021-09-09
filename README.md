@@ -59,6 +59,7 @@
 -----
 
 ## Javascript
+* [JavaScript Tutorial](https://www.w3schools.com/js) - w3schools.com
 * [JavaScript Intro](http://web.simmons.edu/~grovesd/comm328/modules/javascript/intro) - simmons.edu
 
 ### References
