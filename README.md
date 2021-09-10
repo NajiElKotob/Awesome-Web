@@ -87,6 +87,10 @@
 * [jQuery Basics](https://www.coursera.org/lecture/javascript-jquery-json/jquery-basics-VkM0I) - coursera.org
 * [jQuery Essentials](https://www.slideshare.net/1Marc/jquery-essentials/16-Give_a_selectormyId_myClass_table) - slideshare.net
 * [jQuery Tutorials and Courses (References)](https://hackr.io/tutorials/learn-jquery) - hackr.io
+
+### jQuery Plugins
+* [The jQuery Plugin Registry](https://plugins.jquery.com/) - jquery.com
+
 ### jQuery Quiz
 * [jQuery Quiz Test](https://www.w3schools.com/jquery/jquery_quiz.asp) - w3schools.com
 
