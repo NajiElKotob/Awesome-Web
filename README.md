@@ -148,6 +148,10 @@
     * [Wappalyzer](https://www.wappalyzer.com/)
 * [Lorem Ipsum](https://www.lipsum.com/) - In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content.
 
+### Minifiers
+* [Minify](https://www.minifier.org/) - minifier.org JavaScript and CSS minifier
+
+
 ### Performance
 * [Fast](https://fast.com) - fast.com
 * [Website Speed Test](https://tools.pingdom.com)
