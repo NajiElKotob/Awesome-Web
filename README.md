@@ -194,7 +194,7 @@
 * [Glitch](https://glitch.com/) 
 
 -----
-## DevTools
+## Web Developer Tools
 * [Open Chrome DevTools](https://developer.chrome.com/docs/devtools/open/) - chrome.com
 * [Open Microsoft Edge DevTools](https://docs.microsoft.com/en-us/microsoft-edge/devtools-guide-chromium/open/?tabs=cmd-Windows) - microsoft.com
 
