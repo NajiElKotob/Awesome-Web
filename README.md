@@ -68,6 +68,8 @@
 ### Articles
 * [4 ways to call a function in JavaScript](https://itnext.io/4-ways-to-call-a-function-in-javascript-19b174678f5a) - itnext.io
 
+### Statistics
+* [JavsScript](https://www.tiobe.com/tiobe-index/javascript/) - tiobe.com | Tiobe index for JavaScript
 
 ### Quiz
 * [JavaScript Quiz](https://www.w3schools.com/js/js_quiz.asp) - w3schools.com
@@ -171,6 +173,7 @@
 ### Statistics
 * [W3Techs](https://w3techs.com/technologies/overview/top_level_domain) - Usage statistics of top level domains for websites
 * [Browser Statistics](https://www.w3schools.com/browsers/) - w3schools.com
+
 -----
 
 ## HTML Editors
