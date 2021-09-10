@@ -161,6 +161,7 @@
 
 ### WhoIs
 * [ICANN](https://lookup.icann.org/) - Registration data lookup tool "The Inter"net Corporation for Assigned Names and Numbers"
+* [Domain Tools](http://whois.sc/) - whois.sc
 
 ### DNS
 * [MXToolbox](https://mxtoolbox.com/) - This test will list MX records for a domain in priority order.
