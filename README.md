@@ -37,6 +37,8 @@
 * [Animate.css](https://daneden.github.io/animate.css/)
 * [Animate On Scroll (AOS) Library](https://michalsnik.github.io/aos/)
 * [Scroll animations](https://cssanimation.rocks/scroll-animations/) - cssanimation.rocks
+* [Masonry](https://masonry.desandro.com/) - desandro.com
+
 
 ### Refernces
 * [CSS Reference](https://cssreference.io/) - cssreference.io
