@@ -214,6 +214,10 @@
 * [Freepik](https://www.freepik.com/) - Graphic resources for everyone
 * [Unsplash](https://unsplash.com/) - The internet’s source of freely usable images.
 
+### Icons
+* [Open Iconic](https://github.com/iconic/open-iconic) - useiconic.com
+
+
 ### Colors
 * [Color Palettes](https://www.astellescolors.com/)
 * [Adobe Color](https://color.adobe.com/)
