@@ -237,6 +237,11 @@
 
 ----
 
+## Hosting
+### Free Hosting
+* [GitHub Pages](https://pages.github.com/) - github.com
+
+----
 ## Articles
 ### Scrollytelling
 * [scrollama.js](https://russellgoldenberg.github.io/scrollama/basic/) - Scrollama is a modern & lightweight JavaScript library for scrollytelling using IntersectionObserver in favor of scroll events.
