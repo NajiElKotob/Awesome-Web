@@ -112,6 +112,7 @@
 
 ### Plugins
 * [bootstrap-select](https://developer.snapappointments.com/bootstrap-select/)
+* [X-editable](http://vitalets.github.io/x-editable/demo-bs3.html?c=inline)
 
 ### Statistics
 * [Usage statistics of JavaScript libraries for websites](https://w3techs.com/technologies/overview/javascript_library) - w3Techs
