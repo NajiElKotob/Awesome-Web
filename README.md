@@ -137,6 +137,8 @@
 * [Chosen - jQuery plugin](https://harvesthq.github.io/chosen)
 * [35 Best Toast Notification jQuery Plugins Of 2017](https://www.jqueryscript.net/blog/Best-Toast-Notification-jQuery-Plugins.html)
 * [Alignment Principle in Design](https://bestdesigntrend.com/alignment-principle-design/) - bestdesigntrend.com
+* [Sweetalert2](https://sweetalert2.github.io/)
+
 
 ## UX
 * [User Experience Basics](https://www.usability.gov/what-and-why/user-experience.html) - usability.gov
