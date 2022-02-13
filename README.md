@@ -108,7 +108,7 @@
 
 ### Learning
 * [Bootstrap 5 tutorial](https://mdbootstrap.com/docs/standard/bootstrap-5-tutorial/) - mdbootstrap.com
-
+* [Bootstrap 5 Essential Training](http://raybo.org/slides_bootstrap5/) :star: - raybo.org
 
 ### Plugins
 * [bootstrap-select](https://developer.snapappointments.com/bootstrap-select/)
