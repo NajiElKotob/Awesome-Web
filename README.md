@@ -150,6 +150,12 @@
 
 -----
 
+## Libraries
+* [clipboard.js](https://clipboardjs.com/) - clipboardjs.com | A modern approach to copy text to clipboard
+
+
+-----
+
 ## Tools
 * [Can I Use](https://caniuse.com) - Browser support tables for modern web technologies
    * [Test your browser](https://tests.caniuse.com/) 
