@@ -5,6 +5,8 @@
 * [HTML Tutorial](https://websitesetup.org/html-tutorial-beginners/) - websitesetup.org | Learn HTML, step-by-step
 * [HTML Cheat Sheet](https://websitesetup.org/html5-cheat-sheet/)
 * [Getting started with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started) - MDN Web Docs developer.mozilla.org
+* [Semantic HTML](https://www.pluralsight.com/guides/semantic-html) - pluralsight.com
+
 
 ### Learning
 * [W3Cx](https://w3cx.org/) - w3cx.org
