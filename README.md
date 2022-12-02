@@ -154,6 +154,7 @@
 
 ## Libraries
 * [clipboard.js](https://clipboardjs.com/) - clipboardjs.com | A modern approach to copy text to clipboard
+* [Isotope](https://isotope.metafizzy.co/) - isotope.metafizzy.co | Filter & sort magical layouts
 
 
 -----
