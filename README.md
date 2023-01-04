@@ -231,6 +231,7 @@
 
 ### Icons
 * [Open Iconic](https://github.com/iconic/open-iconic) - useiconic.com
+* [Iconfinder](https://www.iconfinder.com/) - iconfinder.com
 
 
 ### Colors
