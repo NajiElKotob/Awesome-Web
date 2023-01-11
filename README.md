@@ -251,6 +251,9 @@
 ### Converters
 [YouTube to MP4 & MP3 Converter](https://www.clipconverter.cc/) - ClipConverter
 
+### Favicon
+* [Favicon.io](https://favicon.io/favicon-converter/) - favicon.io | Quickly generate your favicon from an image
+
 ----
 
 ## Hosting
