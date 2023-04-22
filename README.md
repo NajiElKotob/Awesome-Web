@@ -155,6 +155,7 @@
 ## Libraries
 * [clipboard.js](https://clipboardjs.com/) - clipboardjs.com | A modern approach to copy text to clipboard
 * [Isotope](https://isotope.metafizzy.co/) - isotope.metafizzy.co | Filter & sort magical layouts
+* [lightGallery](https://www.lightgalleryjs.com/) - lightgalleryjs.com | A lightweight, modular, JavaScript image and video lightbox gallery plugin. 
 
 
 -----
