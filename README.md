@@ -49,9 +49,11 @@
 
 ### Gamification
 * [CSS Dinner](https://flukeout.github.io) - flukeout
+
+
 ### Videos
 * [STOP The CSS Grid Confusion - 2 Ways to GRID!](https://www.youtube.com/watch?v=YNB-JD7iPoQ)
-
+* [Let's Learn .NET - Web Development ~2 hours](https://www.youtube.com/watch?v=vuNRDdu1vJQ) - dotNET
 
 ### Tools
 * [Web Code Tools](https://webcode.tools/generators/css) - webcode.tools
