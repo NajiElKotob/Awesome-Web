@@ -1,8 +1,8 @@
 # Awesome Web
 
 -----
-## [Awesome HTML](https://github.com/NajiElKotob/Awesome-HTML)
-## [Awesome CSS](https://github.com/NajiElKotob/Awesome-CSS)
+### [Awesome HTML](https://github.com/NajiElKotob/Awesome-HTML)
+### [Awesome CSS](https://github.com/NajiElKotob/Awesome-CSS)
 -----
 
 ## Javascript
@@ -143,26 +143,6 @@
 * [Browser Statistics](https://www.w3schools.com/browsers/) - w3schools.com
 
 -----
-
-## HTML Editors
-### Applications
-* [Notepad++](https://notepad-plus-plus.org/)
-* [Sublime](https://www.sublimetext.com/)
-* [Visual Studio Code](https://code.visualstudio.com/) 🌟
-    * [HTML in Visual Studio Code](https://code.visualstudio.com/docs/languages/html)
-    * [CSS, SCSS and Less](https://code.visualstudio.com/docs/languages/css)
-    * [JavaScript](https://code.visualstudio.com/docs/languages/javascript)
-    * [Live Server (Extension)](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - Launch a development local Server with live reload feature for static and dynamic pages
-         * [Automatically Reload Your Site on Save](https://www.youtube.com/watch?v=WzE0yqwbdgU) 
-* [Brackets](http://brackets.io/) - A modern, open source text editor that understands web design.
-
-### Online Editors
-* [VSCode](https://vscode.dev/) 🌟 - vscode.dev
-* [CodePen](https://codepen.io/trending) - CodePen 'codepen.io' is an online community for testing and showcasing user-created HTML, CSS and JavaScript code snippets.
-   * [Learn to use CodePen from a co-founder of CodePen :tv:](https://www.youtube.com/watch?v=vb9uYBtqmeM) - Chris Coyier
-* [Glitch](https://glitch.com/) 
-
------
 ## Web Developer Tools
 * [Open Chrome DevTools](https://developer.chrome.com/docs/devtools/open/) - chrome.com
 * [Open Microsoft Edge DevTools](https://docs.microsoft.com/en-us/microsoft-edge/devtools-guide-chromium/open/?tabs=cmd-Windows) - microsoft.com
@@ -177,7 +157,6 @@
 ### Icons
 * [Open Iconic](https://github.com/iconic/open-iconic) - useiconic.com
 * [Iconfinder](https://www.iconfinder.com/) - iconfinder.com
-
 
 ### Colors
 * [Color Palettes](https://www.astellescolors.com/)
