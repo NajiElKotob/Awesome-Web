@@ -3,24 +3,8 @@
 -----
 ### [Awesome HTML](https://github.com/NajiElKotob/Awesome-HTML)
 ### [Awesome CSS](https://github.com/NajiElKotob/Awesome-CSS)
+### [Awesome JavaScript](https://github.com/NajiElKotob/Awesome-JavaScript)
 ### [Awesome Design](https://github.com/NajiElKotob/Awesome-Design)
------
-
-## Javascript
-* [JavaScript Tutorial](https://www.w3schools.com/js) - w3schools.com
-* [JavaScript Intro](http://web.simmons.edu/~grovesd/comm328/modules/javascript/intro) - simmons.edu
-
-### References
-* [Comparison of JavaScript-based web frameworks](https://en.wikipedia.org/wiki/Comparison_of_JavaScript-based_web_frameworks) - wikipedia.org
-
-### Articles
-* [4 ways to call a function in JavaScript](https://itnext.io/4-ways-to-call-a-function-in-javascript-19b174678f5a) - itnext.io
-
-### Statistics
-* [JavsScript](https://www.tiobe.com/tiobe-index/javascript/) - tiobe.com | Tiobe index for JavaScript
-
-### Quiz
-* [JavaScript Quiz](https://www.w3schools.com/js/js_quiz.asp) - w3schools.com
 
 
 ------
