@@ -132,8 +132,13 @@
 
 -----
 ## Web Developer Tools
-* [Open Chrome DevTools](https://developer.chrome.com/docs/devtools/open/) - chrome.com
+### Edge
 * [Open Microsoft Edge DevTools](https://docs.microsoft.com/en-us/microsoft-edge/devtools-guide-chromium/open/?tabs=cmd-Windows) - microsoft.com
+* [Videos about web development with Microsoft Edge](https://learn.microsoft.com/en-us/microsoft-edge/dev-videos/)
+### Chrome
+* [Open Chrome DevTools](https://developer.chrome.com/docs/devtools/open/) - chrome.com
+
+
 
 ## Hosting
 ### Free Hosting
