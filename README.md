@@ -105,6 +105,8 @@
 ### Minifiers
 * [Minifier](https://www.minifier.com/) - minifier.com | Minifying improves performance for your page overall by reduced file-size
 
+### HTTP response status codes
+* [HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status) - mozilla.org
 
 ### Performance
 * [Fast](https://fast.com) - fast.com
@@ -118,7 +120,6 @@
 * [Domain Tools](http://whois.sc/) - whois.sc
 * [List of Accredited Registrars](https://www.icann.org/en/accredited-registrars?filter-letter=a&sort-direction=asc&sort-param=name&page=1) - icann.org
 * [Domain History Checker](https://whoisrequest.com/history/) - whoisrequest.com
-
 
 ### DNS
 * [MXToolbox](https://mxtoolbox.com/) - This test will list MX records for a domain in priority order.
