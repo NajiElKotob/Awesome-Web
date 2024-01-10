@@ -149,6 +149,7 @@
 ## Hosting
 ### Free Hosting
 * [GitHub Pages](https://pages.github.com/) - github.com
+* [Deploy a Blazor app on Azure Static Web Apps](https://learn.microsoft.com/en-us/azure/static-web-apps/deploy-blazor) - microsoft.com
 
 ----
 ## Articles
