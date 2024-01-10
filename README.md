@@ -30,7 +30,7 @@
 
 ## WordPress
 * [Learn WordPress](https://learn.wordpress.org/) - wordpress.org
-
+* [WordPress Playground](https://playground.wordpress.net/) 
 
 ------
 
