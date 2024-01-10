@@ -28,6 +28,12 @@
 
 ------
 
+## WordPress
+* [Learn WordPress](https://learn.wordpress.org/) - wordpress.org
+
+
+------
+
 ## Bootstrap
 ### Templates and Theme
 * [Free Bootstrap Themes & Templates](https://startbootstrap.com/?showPro=false&showVue=false&showAngular=false)
