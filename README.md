@@ -144,6 +144,8 @@
 ### Chrome
 * [Open Chrome DevTools](https://developer.chrome.com/docs/devtools/open/) - chrome.com
 
+## Misc
+* [Favicon Generator. For real.](https://realfavicongenerator.net/) - realfavicongenerator.net
 
 
 ## Hosting
